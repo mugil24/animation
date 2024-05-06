@@ -186,7 +186,6 @@ Registeration Number :2122221040174
         android:toAlpha="0" />
 </set>
 ```
-
 ## In move.xml :
 ```
 <?xml version="1.0" encoding="utf-8"?>
